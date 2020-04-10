@@ -16,8 +16,6 @@
 
             <div class="container mypunter-padding">
 
-                <iframe class="mt-2 " width="100%" height="140" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/user-407067802/join-mypuntercom"></iframe>
-
                 <div class="bg-darker h-20 pt-04 pl-03 mt-2 ">
                     <span class="text-white font-size-13 font-weight">RACE DAY ACCESS</span>
                 </div>
@@ -25,8 +23,26 @@
                 <br />
 
                 <div class="bg-danger mt-1 ">
-                    <img src='<?php echo SITE_URL.'/images/'.$editHome[0]['advert0'] ?>' class="img-responsive w-full " />
+                    <img src='../images/banner.png' class="img-responsive w-full " />
                 </div>
+
+
+
+
+                <div class="bg-darker h-20 pt-04 pl-03 mt-2 ">
+                    <span class="text-white font-weight font-size-13">Who is there for YOU?</span>
+                </div>
+
+                <br />
+                <p>You have been the giver that so many others depend on.  Yet lately things haven’t been so clear.  You want to be solid like a rock.  How do you find your way back to your core strength?
+                </p>
+
+                <div class="bg-darker h-20 pt-04 pl-03 mt-2 ">
+                    <span class="text-white font-weight font-size-13">About The Wilder Method</span>
+                </div>
+
+                <br />
+                <p>The Wilder Method helps you connect to your primitive nature and aliveness through The Four Animals.</p>
 
                 <div class="bg-darker pb-01 pt-04 pl-03 mt-2 ">
                     <span class="text-white font-weight font-size-13">PRESENT YOUR MYPUNTER MEMBERSHIP CARD TO GAIN GENERAL ADMISSION ACCESS TO:</span>
@@ -79,71 +95,6 @@
                     </div>
                 </div>
 
-                <div class="bg-darker h-20 pt-04 pl-03 mt-2 ">
-                    <span class="text-white font-weight font-size-13">LATEST NEWS</span>
-                </div>
-
-                <div class="bg-darker h-20 pt-04 pl-03 mt-2 ">
-                    <span class="text-white font-weight font-size-13">SYNDICATORS & PARTNERS</span>
-                </div>
-
-                <br />
-                <div class="row mt-1">
-                    <div class="col-md-3 text-center ">
-                        <a href="https://bit.ly/mypunter" target="_blank">
-                            <img src='<?php echo SITE_URL.'/images/'.$editHome[0]['advert12'] ?>' />
-                        </a>
-                    </div>
-                    <div class="col-md-3 text-center ">
-                        <a href="https://www.dreamthoroughbreds.com.au/" target="_blank">
-                            <img src='<?php echo SITE_URL.'/images/'.$editHome[0]['advert13'] ?>' class="w-full" />
-                        </a>
-                    </div>
-                    <div class="col-md-3 text-center ">
-                        <a href="https://bit.ly/2IGqvoT" target="_blank">
-                            <img src='<?php echo SITE_URL.'/images/'.$editHome[0]['advert14'] ?>' />
-                        </a>
-                    </div>
-                    <div class="col-md-3 text-center ">
-                        <a href="https://njt.org.au/" target="_blank">
-                            <img src='<?php echo SITE_URL.'/images/'.$editHome[0]['advert15'] ?>' />
-                        </a>
-                    </div>
-                </div>
-
-                <div class="bg-danger mt-2 ">
-                    <a href="https://www.desertsoftware.com.au/" target="_blank">
-                        <img src='<?php echo SITE_URL.'/images/'.$editHome[0]['advert16'] ?>' class="img-responsive w-full " />
-                    </a>
-                </div>
-
-                <div class="bg-darker h-20 pt-04 pl-03 mt-2 ">
-                    <span class="text-white font-weight font-size-13">BETTING PARTNERS</span>
-                </div>
-
-                <br />
-                <div class="row mt-1">
-                    <div class="col-md-3 text-center ">
-                        <a href="https://record.nedsaffiliates.com.au/_vP4xBj6qRfXBkgpoV0de5vvYbtBCuHm7/1/" target="_new">
-                            <img src='<?php echo SITE_URL.'/images/'.$editHome[0]['advert17'] ?>' class="w-full" />
-                        </a>
-                    </div>
-                    <div class="col-md-3 text-center ">
-                        <a href="https://record.beteasyaffiliates.com.au/_aBW4sAU0dLCffFZ4XqMU7UKnamL0Tv_h/1/">
-                            <img src='<?php echo SITE_URL.'/images/'.$editHome[0]['advert18'] ?>' class="w-full" />
-                        </a>
-                    </div>
-                    <div class="col-md-3 text-center ">
-                        <a href="https://www.ladbrokes.com.au/?a=531743&b=356">
-                            <img src='<?php echo SITE_URL.'/images/'.$editHome[0]['advert19'] ?>' class="w-full" />
-                        </a>
-                    </div>
-                    <div class="col-md-3 text-center ">
-                        <a href="https://record.beteasyaffiliates.com.au/_aBW4sAU0dLCo5N1a6k_gki6Si_NPA7FM/1/" target="_new">
-                            <img src='<?php echo SITE_URL.'/images/'.$editHome[0]['advert20'] ?>' class="w-full" />
-                        </a>
-                    </div>
-                </div>
 
                 <div class="text-center mt-3 mb-10 pt-08 ">
                 <span class="sm-text font-size-13">
