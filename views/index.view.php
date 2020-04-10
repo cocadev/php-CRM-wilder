@@ -16,15 +16,15 @@
 
             <div class="container mypunter-padding">
 
-                <div class="bg-darker pt-04 pl-1 mt-5 ">
-                    <span class="text-white font-size-24">Who is there for YOU?</span>
+                <div class="bg-darker pt-04 pl-1 mt-5 pb-01 ">
+                    <span class="text-white font-size-24" style="font-family: 'Michroma', sans-serif;">Who is there for YOU?</span>
                 </div>
 
                 <br /><br />
                 <p class="font-size-16">You have been the giver that so many others depend on.  Yet lately things haven’t been so clear.  You want to be solid like a rock.  How do you find your way back to your core strength.</p>
 
-                <div class="bg-darker pt-04 pl-1 mt-5 ">
-                    <span class="text-white font-size-24">About The Wilder Method</span>
+                <div class="bg-darker pt-04 pl-1 mt-5 pb-01">
+                    <span class="text-white font-size-24" style="font-family: 'Michroma', sans-serif;">About The Wilder Method</span>
                 </div>
 
                 <div class="row mt-1">
@@ -50,8 +50,8 @@
                     </div>
                 </div>
 
-                <div class="bg-darker pb-01 pt-04 pl-1 mt-5 ">
-                    <span class="text-white font-size-24">Where is it used?</span>
+                <div class="bg-darker pb-01 pt-04 pl-1 mt-5 pb-01">
+                    <span class="text-white font-size-24" style="font-family: 'Michroma', sans-serif;">Where is it used?</span>
                 </div>
 
                 <div class="mt-1" style="display: flex; justify-content: space-around">
@@ -121,8 +121,8 @@
                 </div>
 
 
-                <div class="bg-darker pt-04 pl-1 mt-5 ">
-                    <span class="text-white font-size-24">Thank you</span>
+                <div class="bg-darker pt-04 pl-1 mt-5 pb-01">
+                    <span class="text-white font-size-24" style="font-family: 'Michroma', sans-serif;">Thank you</span>
                 </div>
 
                 <br />

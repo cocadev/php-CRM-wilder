@@ -7,7 +7,12 @@
     <title>renderizeMenu by Davicotico - w/Bootstrap 3 & Smartmenus </title>
     <link href="../menulib/jquery.smartmenus.bootstrap.css" rel="stylesheet">
     <link rel="stylesheet" href="../otherlib/css/bootstrap.css">
-
+    <link href="https://fonts.googleapis.com/css2?family=Michroma&display=swap" rel="stylesheet">
+    <style>
+        .punter-text {
+            cursor: pointer; float: left; list-style-type:none; padding: 18px 20px; color: #fff; font-size: 20px; font-family: 'Michroma', sans-serif;
+        }
+    </style>
 </head>
 <body>
 <!-- Navbar fixed top -->
@@ -22,9 +27,24 @@
             </button>
         </div>
         <div class="navbar-collapse collapse">
-            <ul id="menu1">
-                <li style="cursor: pointer; float: right; list-style-type:none; padding: 18px 20px; color: #fff; font-size: 14px" href="#" data-toggle="modal" data-target="#myModal">
-                    Contact Us
+            <ul>
+                <li class="punter-text">
+                    <a class="text-white" href="<?php echo SITE_URL ?>/controller/home.php">Home</a>
+                </li>
+                <li class="punter-text">
+                    <a class="text-white" href="<?php echo SITE_URL ?>/controller/tipsters.php" >Customers</a>
+                </li>
+                <li class="punter-text">
+                    <a class="text-white" href="<?php echo SITE_URL ?>/controller/results.php">Posts</a>
+                </li>
+                <li class="punter-text">
+                    <a class="text-white" href="<?php echo SITE_URL ?>/controller/posts.php">About Us</a>
+                </li>
+                <li class="punter-text" data-toggle="modal" data-target="#myModal">
+                    <a class="text-white">Contact Us</a>
+                </li>
+                <li class="punter-text">
+                    <a class="text-white" href="<?php echo SITE_URL ?>/controller/login.php">Become a member</a>
                 </li>
             </ul>
         </div>
@@ -39,6 +59,7 @@
 
             <div class="modal-body">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
+
                 <h2 class="modal-title mt-03 mb-1">Contact Us</h2>
 
                 <div class="form-group">
@@ -77,18 +98,6 @@
 <script src="../menulib/renderMenu.js"></script>
 <script type="text/javascript" src="../menulib/jquery.smartmenus.min.js"></script>
 <script type="text/javascript" src="../menulib/jquery.smartmenus.bootstrap.js"></script>
-<script>
-    $(document).ready(function () {
-        var items = <?php echo $menu?>;
-        $('#menu1').renderizeMenu(items, {
-            active: 'http://codeigniterturoriales.com',
-            rootClass: "nav navbar-nav",
-            menuClass: "dropdown-menu",
-            submenuClass: "dropdown-menu",
-            dropdownIcon: '<span class="caret"></span>'
-        });
-        jQuery.SmartMenus.Bootstrap.init();
-    });
-</script>
+
 </body>
 </html>

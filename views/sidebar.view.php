@@ -7,7 +7,6 @@
 <a href="<?php echo SITE_URL; ?>/controller/posts.php" type="button" class="btn btn-default btn-block btn-sm" aria-haspopup="true" aria-expanded="false">Posts</a>
 
 <h6 style="margin-top: 20px">Media</h6>
-<a href="<?php echo SITE_URL; ?>/controller/edit_tipsters.php" type="button" class="btn btn-default btn-block btn-sm" aria-haspopup="true" aria-expanded="false">Tipsters</a>
 <a href="<?php echo SITE_URL; ?>/controller/edit_sponsors.php" type="button" class="btn btn-default btn-block btn-sm" aria-haspopup="true" aria-expanded="false">Sponsors</a>
 <a href="<?php echo SITE_URL; ?>/controller/edit_membership.levels.php" type="button" class="btn btn-default btn-block btn-sm" aria-haspopup="true" aria-expanded="false">Membership Levels</a>
 

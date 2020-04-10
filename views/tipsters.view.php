@@ -1,11 +1,11 @@
 <div class="container mt-2 mypunter-padding">
-    <span class="font-size-20">Our Tipsters</span>
+    <span class="font-size-26 mt-5">Our Tipsters</span>
 
-    <div class="row">
-        <div class="col-md-2 ">
-            <img src='<?php echo SITE_URL.'/images/'.$Tipsters[0]['image1'] ?>' class="h-240" />
+    <div class="row mt-5">
+        <div class="col-md-3 ">
+            <img src='../images/man1.png' class="h-240" />
         </div>
-        <div class="col-md-10  pl-3">
+        <div class="col-md-9  pl-3">
             <span class="font-size-20">MyPunter</span>
             <br/>
             <div class="mt-1"></div>
@@ -20,7 +20,7 @@
         </div>
     </div>
 
-    <div class="mt-1"></div>
+    <div class="mt-3"></div>
     <div class="row">
         <div class="col-md-10 tip-padding">
             <span class="font-size-20">Trackside</span>
@@ -31,17 +31,17 @@
             <br/>
         </div>
         <div class="col-md-2 ">
-            <img src='<?php echo SITE_URL.'/images/'.$Tipsters[0]['image2'] ?>' class="h-240 " />
+            <img src='../images/man2.png' class="h-240" />
         </div>
     </div>
 
 
-    <div class="mt-1"></div>
+    <div class="mt-3"></div>
     <div class="row">
-        <div class="col-md-2 ">
-            <img src='<?php echo SITE_URL.'/images/'.$Tipsters[0]['image3'] ?>' class="h-240 " />
+        <div class="col-md-3 ">
+            <img src='../images/man3.png' class="h-240" />
         </div>
-        <div class="col-md-10  tip-padding pl-3">
+        <div class="col-md-9 tip-padding pl-3">
             <span class="font-size-20">Show Pony</span>
             <br/>
             <div class="mt-1"></div>
@@ -53,7 +53,7 @@
         </div>
     </div>
 
-    <div class="mt-1"></div>
+    <div class="mt-3"></div>
     <div class="row">
         <div class="col-md-10  tip-padding">
             <span class="font-size-20">Behind The Barrier</span>
@@ -65,17 +65,17 @@
             <br/>
         </div>
         <div class="col-md-2 ">
-            <img src='<?php echo SITE_URL.'/images/'.$Tipsters[0]['image4'] ?>' class="h-240 " />
+            <img src='../images/woman1.jpg' class="h-240" />
         </div>
     </div>
 
 
-    <div class="mt-1"></div>
+    <div class="mt-3"></div>
     <div class="row">
-        <div class="col-md-2  ">
-            <img src='<?php echo SITE_URL.'/images/'.$Tipsters[0]['image5'] ?>' class="h-240 " />
+        <div class="col-md-3  ">
+            <img src='../images/woman2.jpg' class="h-240" />
         </div>
-        <div class="col-md-10  tip-padding pl-3">
+        <div class="col-md-9  tip-padding pl-3">
             <span class="font-size-20">Sharky</span>
             <br/>
             <div class="mt-1"></div>
@@ -86,7 +86,7 @@
         </div>
     </div>
 
-    <div class="mt-1"></div>
+    <div class="mt-3"></div>
     <div class="row">
         <div class="col-md-10  tip-padding">
             <span class="font-size-20">Wild Cat</span>
@@ -97,17 +97,17 @@
             <br/>
         </div>
         <div class="col-md-2 ">
-            <img src='<?php echo SITE_URL.'/images/'.$Tipsters[0]['image6'] ?>' class="h-240 " />
+            <img src='../images/man4.png' class="h-240" />
         </div>
     </div>
 
 
-    <div class="mt-1"></div>
+    <div class="mt-3"></div>
     <div class="row">
-        <div class="col-md-2 ">
-            <img src='<?php echo SITE_URL.'/images/'.$Tipsters[0]['image7'] ?>' class="h-200 " />
+        <div class="col-md-3 ">
+            <img src='../images/woman3.png' class="h-240" />
         </div>
-        <div class="col-md-10  tip-padding pl-3">
+        <div class="col-md-9  tip-padding pl-3">
             <span class="font-size-20">Jackot Jay</span>
             <br/>
             <div class="mt-1"></div>
@@ -118,7 +118,7 @@
         </div>
     </div>
 
-    <div class="mt-1"></div>
+    <div class="mt-3"></div>
     <div class="row">
         <div class="col-md-10  tip-padding">
             <span class="font-size-20">The Hammer</span>
@@ -130,7 +130,7 @@
             <br/>
         </div>
         <div class="col-md-2 ">
-            <img src='<?php echo SITE_URL.'/images/'.$Tipsters[0]['image8'] ?>' class="h-100 " />
+            <img src='../images/woman4.jpg' class="h-240" />
         </div>
     </div>
 

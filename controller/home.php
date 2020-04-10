@@ -7,7 +7,6 @@ if (isset($_SESSION['username'])){
     header('Location: ' . SITE_URL . '/controller/login.php');
 }
 
-
 require '../admin/config.php';
 require '../admin/functions.php';	
 require '../views/header.view.php';
@@ -17,8 +16,7 @@ $errors = '';
 $connect = connect($database);
 if(!$connect){
 	header('Location: ' . SITE_URL . '/controller/error.php');
-	}
-	
+}
 
 $exercises = get_all_exercises($connect);
 $workouts = get_all_workouts($connect);
@@ -27,7 +25,6 @@ $posts = get_all_posts($connect);
 $users = get_all_users($connect);
 $posts_filtered_by_date = get_all_posts_filtered_by_datte($connect);
 $menu = get_menu($connect);
-
 
 $tags_total = number_tags($connect);
 $posts_total = number_posts($connect);
@@ -41,12 +38,7 @@ $bodyparts_total = number_bodyparts($connect);
 $equipments_total = number_equipments($connect);
 $categories_total = number_categories($connect);
 
-//require '../views/navbar.view.php';
-//require '../views/menubar.view.php';
 require '../views/admin.navbar.view.php';
-
 require '../views/home.view.php';
-
-
 
 ?>
