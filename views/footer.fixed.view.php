@@ -6,7 +6,7 @@
         <div style="height: 120px">
             <div class="col-md-12 text-center">
                 <div class="mt-12"></div>
-                <span class="font-size-13 text-b9b9b9">Copyright © 2019 My Ultimate Punter</span>
+                <span class="font-size-13 text-b9b9b9">Copyright © 2020 Designed by Unafraid Media</span>
                 <br>
                 <div class="mt-27">
                     <img src='https://www.counter12.com/img-3ZD1Zbz8W8DZ4abc-8.gif' style="width: 60px" border='0' alt='free web counter'>

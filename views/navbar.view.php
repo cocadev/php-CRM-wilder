@@ -1,12 +1,8 @@
-<?php
-$connect = connect($database);
-$tickers = get_all_tickers($connect);
-$editHome = get_all_edit_home($connect);
-?>
-
-<div class="bg-bbb pt-04 h-20">
+<div class="bg-darker pt-04 h-20">
     <marquee behavior="scroll" direction="left" scrollamount="5" onmouseover="this.stop();" onMouseOut="this.start();">
-        <span class="text-darker font-size-16 font-weight"><?php echo $tickers[0]['header'] ?></span>
+        <span class="text-white font-size-16">
+            The Wilder Community Center for Aging in Saint Paul serves as a hub and resource for aging and caregiving services for families, caregivers, employers, counties, organizations and communities in Saint Paul, Minneapolis and Minnesota.
+        </span>
     </marquee>
 </div>
 
@@ -32,7 +28,7 @@ $editHome = get_all_edit_home($connect);
 
 </nav>
 
-<div class="bg-darker ">
+<div class="">
 
     <div class="container mypunter-padding-h">
 
@@ -58,22 +54,14 @@ $editHome = get_all_edit_home($connect);
                     <span class="fa fa-instagram"></span>
                 </a>
                 <div class="mt-1"></div>
-                <span class="text-white ">Contact Us</span>
+                <span class="text-darker ">Contact Us</span>
                 <br />
                 <div class="mt-007-"></div>
-                <a class="text-white underline font-size-13" href="mailto:support@wwsfit.com?subject=Thanks&body=Best Regards">support@mypunter.com</a>
+                <a class="text-darker underline font-size-13" href="mailto:support@wwsfit.com?subject=Thanks&body=Best Regards">support@mypunter.com</a>
                 <br />
             </div>
         </div>
     </div>
-</div>
-
-
-
-<div class="bg-bbb pt-04 h-20">
-    <marquee behavior="scroll" direction="left" scrollamount="5" onmouseover="this.stop();" onMouseOut="this.start();">
-        <span class="text-darker font-size-18 font-weight"><?php echo $tickers[0]['footer'] ?></span>
-    </marquee>
 </div>
 
 
