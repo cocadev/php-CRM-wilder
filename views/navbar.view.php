@@ -40,7 +40,8 @@ $editHome = get_all_edit_home($connect);
             <div class="col-md-7">
                 <div id="colorlib-logo">
                     <a href="<?php echo SITE_URL; ?>/controller/index.php">
-                        <img src='<?php echo SITE_URL.'/images/logo.png' ?>' title="MyPunter" class="logo-punter nopadding img-responsive" /> </a>
+                        <img src='../files/logo.png' title="MyPunter" class="logo-punter nopadding img-responsive" />
+                    </a>
                 </div>
             </div>
             <div class="col-md-3"></div>
@@ -60,7 +61,7 @@ $editHome = get_all_edit_home($connect);
                 <span class="text-white ">Contact Us</span>
                 <br />
                 <div class="mt-007-"></div>
-                <a class="text-white underline font-size-13" href="mailto:support@wwsfit.com?subject=Thanks&body=Best Regards">support@wwsfit.com</a>
+                <a class="text-white underline font-size-13" href="mailto:support@wwsfit.com?subject=Thanks&body=Best Regards">support@mypunter.com</a>
                 <br />
             </div>
         </div>
