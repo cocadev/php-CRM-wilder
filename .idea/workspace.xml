@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ba0ea8e-65e1-483e-9c79-5c1f83731f51" name="Default Changelist" comment="" />
+    <list default="true" id="8ba0ea8e-65e1-483e-9c79-5c1f83731f51" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/views/navbar.view.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/navbar.view.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/navbar.view.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="47" column="67" selection-start-line="47" selection-start-column="67" selection-end-line="47" selection-end-column="67" />
+            <state relative-caret-position="214">
+              <caret line="42" column="71" selection-start-line="42" selection-start-column="71" selection-end-line="42" selection-end-column="71" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
               </folding>
@@ -129,7 +131,6 @@
         <option value="$PROJECT_DIR$/controller/edit_tipsters.php" />
         <option value="$PROJECT_DIR$/controller/edit_sponsors.php" />
         <option value="$PROJECT_DIR$/views/sponsors.view.php" />
-        <option value="$PROJECT_DIR$/views/navbar.view.php" />
         <option value="$PROJECT_DIR$/controller/edit_logo.php" />
         <option value="$PROJECT_DIR$/Edits/logo.edit.php" />
         <option value="$PROJECT_DIR$/css/uploadButton.css" />
@@ -164,6 +165,7 @@
         <option value="$PROJECT_DIR$/views/new.user.view.php" />
         <option value="$PROJECT_DIR$/admin/payment.php" />
         <option value="$PROJECT_DIR$/controller/new_user.php" />
+        <option value="$PROJECT_DIR$/views/navbar.view.php" />
       </list>
     </option>
   </component>
@@ -298,12 +300,12 @@
       <workItem from="1567064861296" duration="2713000" />
       <workItem from="1567263579779" duration="4310000" />
       <workItem from="1567996712282" duration="1249000" />
-      <workItem from="1586485807904" duration="1140000" />
+      <workItem from="1586485807904" duration="1634000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="243218000" />
+    <option name="totallyTimeSpent" value="243712000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -704,8 +706,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/navbar.view.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="47" column="67" selection-start-line="47" selection-start-column="67" selection-end-line="47" selection-end-column="67" />
+        <state relative-caret-position="214">
+          <caret line="42" column="71" selection-start-line="42" selection-start-column="71" selection-end-line="42" selection-end-column="71" />
           <folding>
             <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
           </folding>
