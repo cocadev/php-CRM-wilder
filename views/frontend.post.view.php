@@ -2,12 +2,20 @@
 
 <div class="row">
         <div class="col-md-8">
-            <span class="font-size-20"  id='tip'>
-                <?php echo $post['post_title']; ?>
-                <?php echo str_replace('-', '/', substr($post['post_date'], 5)) ; ?>
-            </span>
+
             
             <div class="mt-1"></div>
+
+            <div style="display: flex; align-items: flex-end">
+                <img src="../images/man1.png" style="width: 50px; height: 50px; border-radius: 25px; display: inline-block"/>
+                <div style="display: inline-block; margin-left: 10px">
+                    <span class="font-size-16">John Matin</span><br/>
+                    <?php echo '2020/'.str_replace('-', '/', substr($post['post_date'], 5)) ; ?>
+                </div>
+            </div>
+            <p class="font-size-20 mt-1" id='tip'>
+                <?php echo $post['post_title']; ?>
+            </p>
 
             <img src='../images/<?php echo $post['post_image']; ?>' class=" img-responsive mt-1" />
 

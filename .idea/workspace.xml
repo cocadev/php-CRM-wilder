@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ba0ea8e-65e1-483e-9c79-5c1f83731f51" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controller/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/controller/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controller/edit_tipsters.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/controller/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/controller/home.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/frontend.post.view.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/frontend.post.view.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/home.view.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/home.view.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/index.view.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.view.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/menubar.view.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/menubar.view.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/sidebar.view.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/sidebar.view.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/tipsters.view.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/tipsters.view.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +53,7 @@
         <entry file="file://$PROJECT_DIR$/mypunter.sql">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="128">
-              <caret line="297" column="55" lean-forward="true" selection-start-line="297" selection-start-column="55" selection-end-line="297" selection-end-column="55" />
+              <caret line="297" column="55" selection-start-line="297" selection-start-column="55" selection-end-line="297" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -109,8 +100,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/frontend.post.view.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+            <state relative-caret-position="459">
+              <caret line="27" column="57" selection-start-line="27" selection-start-column="57" selection-end-line="27" selection-end-column="57" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -367,12 +363,12 @@
       <workItem from="1567064861296" duration="2713000" />
       <workItem from="1567263579779" duration="4310000" />
       <workItem from="1567996712282" duration="1249000" />
-      <workItem from="1586485807904" duration="15084000" />
+      <workItem from="1586485807904" duration="17276000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="257162000" />
+    <option name="totallyTimeSpent" value="259354000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -728,7 +724,7 @@
     <entry file="file://$PROJECT_DIR$/mypunter.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
-          <caret line="297" column="55" lean-forward="true" selection-start-line="297" selection-start-column="55" selection-end-line="297" selection-end-column="55" />
+          <caret line="297" column="55" selection-start-line="297" selection-start-column="55" selection-end-line="297" selection-end-column="55" />
         </state>
       </provider>
     </entry>
@@ -768,8 +764,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/frontend.post.view.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+        <state relative-caret-position="459">
+          <caret line="27" column="57" selection-start-line="27" selection-start-column="57" selection-end-line="27" selection-end-column="57" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
