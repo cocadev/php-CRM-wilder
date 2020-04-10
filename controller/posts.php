@@ -2,13 +2,11 @@
 
  session_start();
 if (isset($_SESSION['username'])){
-    
-    
+
 require '../admin/config.php';
 require '../admin/functions.php';	
 require '../views/header.view.php';
 require '../views/admin.navbar.view.php';
-//require '../views/menubar.view.php';
 
 $errors = '';   
 

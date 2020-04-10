@@ -12,11 +12,11 @@
 
     if (isset($_SESSION['username'])) {
 
-        echo '<p class="text-white" style="position: absolute; top:50px">'."Signed as ".$_SESSION['username'].'</p>';
+        echo '<p class="text-darker" style="position: absolute; top:50px">'."Signed as ".$_SESSION['username'].'</p>';
 
         ?>
+        <a href="<?php echo SITE_URL ?>/controller/home.php" style="position: absolute; top:72px" class="text-darker underline">Dashboard</a>
         <a href="<?php echo SITE_URL ?>/controller/logout.php" >Sign out</a><br/>
-        <a href="<?php echo SITE_URL ?>/controller/home.php" style="position: absolute; top:72px" class="text-white underline">Dashboard</a>
 
         <?php
 

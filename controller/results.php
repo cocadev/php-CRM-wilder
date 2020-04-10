@@ -7,7 +7,6 @@ require '../views/header.view.php';
 require '../views/navbar.view.php';
 require '../views/menubar.view.php';
 
-
 $connect = connect($database);
 $d=strtotime("tomorrow");
 

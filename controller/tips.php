@@ -7,7 +7,6 @@ require '../views/header.view.php';
 require '../views/navbar.view.php';    
 require '../views/menubar.view.php';
 
-
 $connect = connect($database);
 $d=strtotime("tomorrow");
 
@@ -31,15 +30,6 @@ $tips_day_posts = array([
 ]);
 
 $all_posts = get_all_posts($connect);
-
-
-//echo '<pre><br>';
-//echo print_r($tips_day[0][0]);
-//echo print_r($tips_day[0][1]);
-//echo print_r($tips_day[0][2]);
-//echo print_r($tips_day[0][3]);
-//echo print_r($tips_day[0][4]);
-//echo '</pre>';
 
 require '../views/tips.view.php';
 
