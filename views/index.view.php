@@ -16,20 +16,16 @@
 
             <div class="container mypunter-padding">
 
-
-
                 <div class="bg-darker h-20 pt-04 pl-03 mt-2 ">
                     <span class="text-white font-weight font-size-13">Who is there for YOU?</span>
                 </div>
 
                 <br />
-                <p>You have been the giver that so many others depend on.  Yet lately things haven’t been so clear.  You want to be solid like a rock.  How do you find your way back to your core strength?
-                </p>
+                <p>You have been the giver that so many others depend on.  Yet lately things haven’t been so clear.  You want to be solid like a rock.  How do you find your way back to your core strength.</p>
 
                 <div class="bg-darker h-20 pt-04 pl-03 mt-2 ">
                     <span class="text-white font-weight font-size-13">About The Wilder Method</span>
                 </div>
-
 
                 <div class="row mt-1">
 
@@ -55,7 +51,6 @@
                     </div>
                 </div>
 
-
                 <div class="bg-darker pb-01 pt-04 pl-03 mt-2 ">
                     <span class="text-white font-weight font-size-13">PRESENT YOUR MYPUNTER MEMBERSHIP CARD TO GAIN GENERAL ADMISSION ACCESS TO:</span>
                 </div>
@@ -63,18 +58,14 @@
                 <br />
                 <p>The Wilder Method helps you connect to your primitive nature and aliveness through The Four Animals.</p>
 
-
                 <div class="bg-darker h-20 pt-04 pl-03 mt-2 ">
                     <span class="text-white font-size-13 font-weight">RACE DAY ACCESS</span>
                 </div>
 
                 <br />
-
                 <div class="bg-danger mt-1 ">
                     <img src='../images/banner.png' class="img-responsive w-full " />
                 </div>
-
-
 
                 <div class="text-center mt-10 ">
                 <span class="sm-text font-size-13">

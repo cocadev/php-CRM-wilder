@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-<title>Mypunter</title>
+<title>WILDER</title>
 <link rel="shortcut icon" href="../favicon.png" />
 <link href="../css/custom.css" rel="stylesheet"/>
 <link href="../css/frontend.css" rel="stylesheet"/>
